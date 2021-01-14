@@ -29,7 +29,7 @@
     "apollo-server": "*",
     "dotenv": "*",
     "eosio-mongodb-queries": "*",
-    "glob": "*",
+    "glob": "7.1.6",
     "graphql": "*",
     "mongodb": "*"
   },
