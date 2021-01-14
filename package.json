@@ -28,7 +28,7 @@
   "dependencies": {
     "apollo-server": "*",
     "dotenv": "*",
-    "eosio-mongodb-queries": "*",
+    "eosio-mongodb-queries": "0.9.0",
     "glob": "*",
     "graphql": "*",
     "mongodb": "*"
