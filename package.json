@@ -27,7 +27,7 @@
   "homepage": "https://github.com/EOS-BP-Developers/eosio-graphql",
   "dependencies": {
     "apollo-server": "*",
-    "dotenv": "*",
+    "dotenv": "6.2.0",
     "eosio-mongodb-queries": "*",
     "glob": "*",
     "graphql": "*",
