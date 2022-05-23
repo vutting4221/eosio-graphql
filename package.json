@@ -30,7 +30,7 @@
     "dotenv": "*",
     "eosio-mongodb-queries": "*",
     "glob": "*",
-    "graphql": "*",
+    "graphql": "16.4.0",
     "mongodb": "*"
   },
   "devDependencies": {
